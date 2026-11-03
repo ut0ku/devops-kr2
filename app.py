@@ -1,3 +1,4 @@
+# KR2: Мухин
 import os
 import socket
 
